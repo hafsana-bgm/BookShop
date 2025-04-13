@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Project File\\Library_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{098A98D5-45E2-46DC-AD41-3779F66729CF}|Library_project\\Library_project.csproj|d:\\.net project file\\library_project\\library_project\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098A98D5-45E2-46DC-AD41-3779F66729CF}|Library_project\\Library_project.csproj|solutionrelative:library_project\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A98D5-45E2-46DC-AD41-3779F66729CF}|Library_project\\Library_project.csproj|d:\\.net project file\\library_project\\library_project\\views\\membership\\memberindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098A98D5-45E2-46DC-AD41-3779F66729CF}|Library_project\\Library_project.csproj|solutionrelative:library_project\\views\\membership\\memberindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A98D5-45E2-46DC-AD41-3779F66729CF}|Library_project\\Library_project.csproj|d:\\.net project file\\library_project\\library_project\\datamodel\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098A98D5-45E2-46DC-AD41-3779F66729CF}|Library_project\\Library_project.csproj|solutionrelative:library_project\\datamodel\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A98D5-45E2-46DC-AD41-3779F66729CF}|Library_project\\Library_project.csproj|d:\\.net project file\\library_project\\library_project\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098A98D5-45E2-46DC-AD41-3779F66729CF}|Library_project\\Library_project.csproj|solutionrelative:library_project\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098A98D5-45E2-46DC-AD41-3779F66729CF}|Library_project\\Library_project.csproj|d:\\.net project file\\library_project\\library_project\\views\\shared\\adminmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098A98D5-45E2-46DC-AD41-3779F66729CF}|Library_project\\Library_project.csproj|solutionrelative:library_project\\views\\shared\\adminmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MembershipController.cs",
+              "DocumentMoniker": "D:\\.NET Project File\\Library_project\\Library_project\\Controllers\\MembershipController.cs",
+              "RelativeDocumentMoniker": "Library_project\\Controllers\\MembershipController.cs",
+              "ToolTip": "D:\\.NET Project File\\Library_project\\Library_project\\Controllers\\MembershipController.cs",
+              "RelativeToolTip": "Library_project\\Controllers\\MembershipController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:04:00.486Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.NET Project File\\Library_project\\Library_project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Library_project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\.NET Project File\\Library_project\\Library_project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Library_project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T04:59:53.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberIndex.cshtml",
+              "DocumentMoniker": "D:\\.NET Project File\\Library_project\\Library_project\\Views\\Membership\\MemberIndex.cshtml",
+              "RelativeDocumentMoniker": "Library_project\\Views\\Membership\\MemberIndex.cshtml",
+              "ToolTip": "D:\\.NET Project File\\Library_project\\Library_project\\Views\\Membership\\MemberIndex.cshtml",
+              "RelativeToolTip": "Library_project\\Views\\Membership\\MemberIndex.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T19:10:11.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\.NET Project File\\Library_project\\Library_project\\DataModel\\Member.cs",
+              "RelativeDocumentMoniker": "Library_project\\DataModel\\Member.cs",
+              "ToolTip": "D:\\.NET Project File\\Library_project\\Library_project\\DataModel\\Member.cs",
+              "RelativeToolTip": "Library_project\\DataModel\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:25:22.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminMenu.cshtml",
+              "DocumentMoniker": "D:\\.NET Project File\\Library_project\\Library_project\\Views\\Shared\\AdminMenu.cshtml",
+              "RelativeDocumentMoniker": "Library_project\\Views\\Shared\\AdminMenu.cshtml",
+              "ToolTip": "D:\\.NET Project File\\Library_project\\Library_project\\Views\\Shared\\AdminMenu.cshtml",
+              "RelativeToolTip": "Library_project\\Views\\Shared\\AdminMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T19:15:29.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
